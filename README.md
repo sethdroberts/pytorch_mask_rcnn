@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:49c2fb84d950f394f3d0e6b3e71c68507de99a93393626017eea13642e542be1
-size 261
+# PyTorch Demo of line detection using Mask RCNN
+
+Using this dataset: [HLExt-via-IS](https://github.com/AdeelaIslam/HLExt-via-IS)
+Using this tutorial: [Training Mask R-CNN Models with PyTorch](https://christianjmills.com/posts/pytorch-train-mask-rcnn-tutorial/)
