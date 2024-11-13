@@ -4,7 +4,10 @@
 *.md filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 *.zip filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 341684da891f708c73e927ec24c6f07eb853b22f
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.orig filter=lfs diff=lfs merge=lfs -text
